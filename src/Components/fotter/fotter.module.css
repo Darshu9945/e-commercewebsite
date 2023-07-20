@@ -1,0 +1,16 @@
+.main{
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 1.8rem;
+}
+.main>.left{
+    font-weight: 700;
+    font-size: 25px;
+    color: white;
+}
+.main>.right>span{
+    margin: 0 10px;
+    color: white;
+}
